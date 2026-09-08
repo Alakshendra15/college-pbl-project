@@ -1,0 +1,4 @@
+// Deprecated: route protection is now in proxy.ts (Next.js 16)
+// This file is kept empty to avoid deletion issues — proxy.ts handles all routing logic
+export {}
+
